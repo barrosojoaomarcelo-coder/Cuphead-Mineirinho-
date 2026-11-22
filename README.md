@@ -1,3 +1,4 @@
+
 # Mineirinho — base editável em Python + Pygame
 
 Abra **esta pasta inteira** no VS Code. O arquivo de entrada é `main.py`.
@@ -177,3 +178,6 @@ no Linux. A janela e o áudio no Windows dependem da instalação local.
 
 Recordes são salvos na pasta de dados do usuário em `MineirinhoPygame/progresso.json`
 (`%LOCALAPPDATA%` no Windows). Arquivos de código e imagens permanecem editáveis.
+
+# Cuphead-Mineirinho-
+Paygame 
